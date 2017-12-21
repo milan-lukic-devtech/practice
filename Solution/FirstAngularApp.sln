@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstAngularApp.Data", "..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstAngularApp", "..\FirstAngularApp\FirstAngularApp.csproj", "{9058B599-BE70-49B9-8352-6FAF88550BC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstAngularApp.Test", "..\FirstAngularApp.Test\FirstAngularApp.Test.csproj", "{F587DE1D-F7AE-4144-86A4-D75ABA2933C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9058B599-BE70-49B9-8352-6FAF88550BC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9058B599-BE70-49B9-8352-6FAF88550BC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9058B599-BE70-49B9-8352-6FAF88550BC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F587DE1D-F7AE-4144-86A4-D75ABA2933C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F587DE1D-F7AE-4144-86A4-D75ABA2933C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F587DE1D-F7AE-4144-86A4-D75ABA2933C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F587DE1D-F7AE-4144-86A4-D75ABA2933C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
